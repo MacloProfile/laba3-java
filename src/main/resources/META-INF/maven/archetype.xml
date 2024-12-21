@@ -1,0 +1,9 @@
+<archetype>
+  <id>database_exel</id>
+  <sources>
+    <source>src/Main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
